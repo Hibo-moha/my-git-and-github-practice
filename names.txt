@@ -6,10 +6,10 @@
 6:hilal
 
 
-magacyadii inamada
-cali
-cabdirhman
-cabdifatah
-mohamed
+1:magacyadii inamada
+2:cali
+3:cabdirhman
+4:cabdifatah
+5:mohamed
 
 
