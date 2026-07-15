@@ -4,10 +4,6 @@
 4:huda
 5:hana
 6:hilal
-asma 
-caasha 
-canab
-arwa
 
 
 magacyadii inamada
@@ -15,6 +11,5 @@ cali
 cabdirhman
 cabdifatah
 mohamed
-nour
-nouh
+
 
