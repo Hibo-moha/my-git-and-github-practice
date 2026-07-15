@@ -11,10 +11,10 @@ git init          # Initialize a new repository
 git status        # Check repository status
 git add .         # Stage all changes
 git commit -m "message"   # Save changes
-git push          # Upload changes to GitHub
-git pull          # Download latest changes
-git clone <url>   # Copy a repository
-```
+# git push          # Upload changes to GitHub
+# git pull          # Download latest changes
+# git clone <url>   # Copy a repository
+# ```
 
 ## Benefits of Git
 
