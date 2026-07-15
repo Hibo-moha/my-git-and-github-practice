@@ -22,7 +22,3 @@ git commit -m "message"   # Save changes
 * Enables team collaboration
 * Prevents accidental loss of code
 * Supports branching and merging
-
-## Author
-
-Created by Hibo Mohamed
