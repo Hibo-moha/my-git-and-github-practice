@@ -5,11 +5,10 @@
 5:hana
 6:hilal
 
-
-1:magacyadii inamada
-2:cali
-3:cabdirhman
-4:cabdifatah
-5:mohamed
+magacyadii inamada
+1:cali
+2:cabdirhman
+3:cabdifatah
+4:mohamed
 
 
