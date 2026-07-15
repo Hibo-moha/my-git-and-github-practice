@@ -2,4 +2,5 @@
 ### git
 <!-- git ayaynu si fiican ubaranaynaa asxaabay -->
 ## defination git
-Git is the version control tool
+
+Git: A free, open-source, distributed version control system that runs on your computer and records the complete history of changes to a project.
