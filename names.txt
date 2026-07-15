@@ -1,0 +1,6 @@
+1:hibo
+2:hodan
+3:hoodo
+4:huda
+5:hana
+6:hilal
