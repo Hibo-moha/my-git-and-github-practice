@@ -1,3 +1,4 @@
+Girls Name
 1:hibo
 2:hodan
 3:hoodo
@@ -9,14 +10,29 @@ ilhan
 anhaar
 anwaar
 ansal
+ruun
+nimco
+ayaan 
+muna
+nasiim
+deqa
+xaliimo
+layla
 
-magacyadii inamada
+
+
+
+Names of Boys
 1:cali
 2:cabdirhman
 3:cabdifatah
 4:mohamed
+cadnaan
+cizaam
+mustafe
+muscab
 
-magacyada khudaarta
+khudaar
 1:canbe
 2:muus
 3:xabxab
