@@ -18,4 +18,11 @@ magacyada khudaarta
 4:tufaax
 5:cinab
 
+magacyada magaloyinka somaliland
+1:hargaysa
+2:berbera
+3:burco
+4:gabilay
+5:boorama
+
 
