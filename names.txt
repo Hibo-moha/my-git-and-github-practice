@@ -61,6 +61,15 @@ magacyada magaloyinka somaliland
 3:burco
 4:gabilay
 5:boorama
+wajaale
+muqdisho
+baladweyn
+mudug
+garoowe
+baay
+bakool
+ceerigaabo
+laascanod
 
 magacyada madaxweynayashi somaliland
 1:c/rahman ahmed ali(tuur) 1991----1993
