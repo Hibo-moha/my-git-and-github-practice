@@ -116,6 +116,123 @@ button:hover {
     color: #2563eb;
     margin-bottom: 15px;
 }
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+    padding: 50px 20px;
+}
+
+.stat-box {
+    background: white;
+    width: 220px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,.1);
+}
+
+.stat-box h3 {
+    font-size: 2rem;
+    color: #2563eb;
+}
+
+.skills {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.skills h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.bar {
+    height: 15px;
+    background: #ddd;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.fill {
+    height: 100%;
+    border-radius: 50px;
+}
+
+.fill1 {
+    width: 80%;
+    background: #2563eb;
+}
+
+.fill2 {
+    width: 75%;
+    background: #7c3aed;
+}
+
+.fill3 {
+    width: 70%;
+    background: #10b981;
+}
+
+.projects {
+    padding: 60px 20px;
+}
+
+.projects h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.project-grid {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.project {
+    width: 300px;
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    transition: .3s;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+.contact {
+    background: #111827;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+@media(max-width:768px) {
+
+    .cards,
+    .project-grid,
+    .stats {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .hero h2 {
+        font-size: 1.8rem;
+    }
+}
 
 footer {
     background: #111827;
