@@ -1,70 +1,48 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f6f9;
+* {
     margin: 0;
     padding: 0;
-    color: #333;
+    box-sizing: border-box;
 }
+
+body {
+    font-family: Segoe UI, Arial, sans-serif;
+    background: #f5f7fb;
+    color: #333;
+    line-height: 1.6;
+}
+
 header {
-    background-color: #2563eb;
+    background: linear-gradient(135deg, #2563eb, #7c3aed);
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 60px 20px;
 }
 
 header h1 {
-    margin: 0;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.1rem;
 }
 
 nav {
-    background-color: #1e40af;
-    padding: 10px;
+    background: #111827;
     text-align: center;
+    padding: 15px;
 }
 
 nav a {
     color: white;
     text-decoration: none;
-    margin: 15px;
+    margin: 0 15px;
     font-weight: bold;
+    transition: 0.3s;
 }
 
 nav a:hover {
-    color: #facc15;
-}
-
-.container {
-    width: 80%;
-    margin: 20px auto;
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-h2 {
-    color: #2563eb;
-}
-
-button {
-    background-color: #2563eb;
-    color: white;
-    border: none;
-    padding: 10px 18px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #1e40af;
-}
-
-footer {
-    text-align: center;
-    background-color: #2f3d5c;
-    color: white;
-    padding: 15px;
-    margin-top: 20px;
+    color: #60a5fa;
 }
 
 .hero {
@@ -97,4 +75,52 @@ button {
 
 button:hover {
     transform: translateY(-3px);
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    padding: 40px 20px;
+}
+
+.card {
+    background: white;
+    width: 300px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card h3 {
+    color: #2563eb;
+    margin-bottom: 10px;
+}
+
+.about {
+    background: white;
+    margin: 40px auto;
+    max-width: 900px;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.08);
+}
+
+.about h2 {
+    color: #2563eb;
+    margin-bottom: 15px;
+}
+
+footer {
+    background: #111827;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
