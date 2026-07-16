@@ -25,4 +25,12 @@ magacyada magaloyinka somaliland
 4:gabilay
 5:boorama
 
+magacyada madaxweynayashi somaliland
+1:c/rahman ahmed ali(tuur)
+2:mohamed haji ibrahim(egal)
+3:dahir riyaale kaahin
+4:ahmed mohamed mahamoud(siilanyo)
+5:muse bihi abdi
+6:c/rahman mohamed c/lahi(ciro)
+
 
