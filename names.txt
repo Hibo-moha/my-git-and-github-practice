@@ -4,6 +4,11 @@
 4:huda
 5:hana
 6:hilal
+adna
+ilhan
+anhaar
+anwaar
+ansal
 
 magacyadii inamada
 1:cali
