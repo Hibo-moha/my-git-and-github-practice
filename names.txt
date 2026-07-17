@@ -1,10 +1,4 @@
 Girls Name
-1:hibo
-2:hodan
-3:hoodo
-4:huda
-5:hana
-6:hilal
 adna
 ilhan
 anhaar
@@ -29,10 +23,6 @@ kaltuun
 
 
 Names of Boys
-1:cali
-2:cabdirhman
-3:cabdifatah
-4:mohamed
 cadnaan
 cizaam
 mustafe
@@ -55,12 +45,7 @@ khudaar
 4:tufaax
 5:cinab
 
-magacyada magaloyinka somaliland
-1:hargaysa
-2:berbera
-3:burco
-4:gabilay
-5:boorama
+magaaloyinkan jecalahay
 wajaale
 muqdisho
 baladweyn
