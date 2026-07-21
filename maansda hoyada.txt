@@ -1,0 +1,3 @@
+Check Commits on main — your Exercise 1 history should be there
+Check Code — your files should be visible
+Your 5 feature branches from Exercise 2 stay local for now (that is normal
