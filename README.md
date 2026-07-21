@@ -17,12 +17,3 @@ git log
 # git pull          # Download latest changes
 # git clone <url>   # Copy a repository
 # ```
-
-
-## 🎯 Learning Objectives
-
-- Understand version control concepts
-- Practice daily Git workflows
-- Build confidence using GitHub
-- Track project history effectively
-- Organize files in a repository
