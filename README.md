@@ -38,3 +38,11 @@ This repository is used for practicing essential Git commands and workflows, inc
 - Build confidence using GitHub
 - Track project history effectively
 - Organize files in a repository
+
+
+git branch
+git branch -c (branch name)
+git stash
+git stash pop
+git restore
+git switch - (branch name)
