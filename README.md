@@ -19,18 +19,6 @@ git log
 # ```
 
 
-## 📖 About
-
-This repository is used for practicing essential Git commands and workflows, including:
-
-- Initializing repositories
-- Tracking file changes
-- Staging files
-- Creating commits
-- Viewing commit history
-- Working with different file types
-- Managing project updates using Git
-
 ## 🎯 Learning Objectives
 
 - Understand version control concepts
